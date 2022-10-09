@@ -45,13 +45,9 @@ Go to SDK Manager (Configure -> SDK Manager) and Download:
 Android SDK Build-tools, Android SDK-tools, Android SDK platform-tools, Support Repository
 
 Run script:
-# git clone https://github.com/thelinuxchoice/keydroid
+# git clone https://github.com/freesoftware345/keydroid
 # cd keydroid/
 # bash keydroid.sh
 
 ```
 
-### Donate!
-Support the authors:
-
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
